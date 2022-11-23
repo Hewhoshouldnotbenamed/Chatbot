@@ -1,0 +1,84 @@
+[  
+   {
+	"response_type":"Greeting",
+    "user_input":["Assalamuallaikum","Hello","Hi"],
+    "bot_response":"Hi",
+    "required_words":{}
+	
+   },
+   {
+	"response_type":"health",
+    "user_input":["How","are","you?","Hru?"],
+    "bot_response":"I am fine.",
+    "required_words":[]
+	
+   },
+
+   {
+	"response_type":"Greeting",
+    "user_input":["bye","see you later","sayonnara"],
+    "bot_response":"Bye!",
+    "required_words":{}
+	
+   },
+   {
+	"response_type":"Name",
+    "user_input":["What's","your","name?"],
+    "bot_response":"I am Ali.",
+    "required_words":["your","name"]
+	
+   },
+   {
+	"response_type":"Age",
+    "user_input":["How","old","are","you?"],
+    "bot_response":"I am some hours old.",
+    "required_words":["are","you"]
+	
+   },
+   {
+	"response_type":"Food",
+    "user_input":["What's","your","favourite","food?"],
+    "bot_response":"I can't eat.Sorry!",
+    "required_words":["your","food"]
+	
+   },
+    {
+	"response_type":"Feeling",
+    "user_input":["How","are","you","feeling?"],
+    "bot_response":"I am feeling great",
+    "required_words":["you","feeling"]
+	
+   },
+    {
+	"response_type":"Happiness",
+    "user_input":["What","makes","you","happy?"],
+    "bot_response":"Sleep.",
+    "required_words":["makes","you","happy"]
+   },
+   {
+	"response_type":"Angry",
+    "user_input":["I","am","really","angry"],
+    "bot_response":"It's okay , let it out.",
+    "required_words":["I","really","angry"]
+   },
+   {
+	"response_type":"Sad",
+    "user_input":["What","makes","you","sad?"],
+    "bot_response":"Brokeness",
+    "required_words":["makes","you","sad"]
+	
+   },
+   {
+	"response_type":"Bored",
+    "user_input":["I","am","bored."],
+    "bot_response":"Let's play hangman.",
+    "required_words":["am","bored"]
+	
+   }
+   
+   
+   
+
+
+
+]
